@@ -1,5 +1,5 @@
-# Apologies[index .html](https://github.com/user-attachments/files/29172392/index.html)
-<!DOCTYPE html>
+# Apologies
+
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
